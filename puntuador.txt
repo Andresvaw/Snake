@@ -1,0 +1,38 @@
+necesito un arreglo que guarde los valores x, y, width, height
+
+Numero1({
+x1: valor,
+y1: valor,
+width1: 12,
+height1: 3,
+
+x2: valor,
+y2: valor,
+width2: 6,
+height2: 12,
+
+x3: valor,
+y3: valor,
+width3: 6,
+height3: 12,
+
+x4: valor,
+y4: valor,
+width4: 12,
+height4: 3,
+
+x5: valor,
+y5: valor,
+width5: 6,
+height5: 12,
+
+x6: valor,
+y6: valor,
+width6: 6,
+height6: 12,
+
+x7: valor,
+y7: valor,
+width4: 12,
+height4: 3,
+})
